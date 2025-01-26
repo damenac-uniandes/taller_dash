@@ -19,6 +19,5 @@ Enlace del repositorio: https://github.com/damenac-uniandes/taller_dash
 Captura de pantalla que muestra el acceso a la máquina virtual:
 
 
-
 ## 3. Despliegue del tablero en una máquina virtual en AWS
 
